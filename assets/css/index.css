@@ -150,8 +150,9 @@ div.right{
 footer{
    text-align: center; 
    color: #666;
+   padding-top: 100px;
 }
-footer div{
+footer div, footer small{
     padding-bottom: 50px;
 }
 footer a, footer i {
