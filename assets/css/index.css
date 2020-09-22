@@ -1,0 +1,37 @@
+/* Resets, Containers, @imports, Globals */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body{
+    margin: 0;
+    background: #EEEEEE;
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    margin: 0 15%;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+
+/* Navbar */
+
+nav{
+    padding: 40px 0;
+}
+nav li{
+    display: inline-block;
+    padding-right: 25px;
+}
+nav a{
+    color: #659d89;
+    font-weight: 700;
+    font-size: .85rem;
+}
